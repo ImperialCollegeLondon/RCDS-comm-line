@@ -19,4 +19,4 @@ Below are instructions about how to use this repository.
     - 08 - Nelle's shell script
 1. Open the first notebook in Anaconda or in Colab, we will go through either live or using videos.
 
-Good luck!
+Happy scripting!
