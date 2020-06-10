@@ -1,8 +1,9 @@
 # The Linux command line for scientific computing
+## Katerina Michalickova, The Graduate School, ICL
 
 Welcome to the class!
 
-Below are the instructions about how to use this repository.
+Below are the instructions on how to use this repository.
 
 1. Download this repository - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59105d27-6102-483d-bf96-abd500e63b61)
 1. This class uses Jupyter Notebooks, decide if you want to use Anaconda on your own computer or Google Colab.
