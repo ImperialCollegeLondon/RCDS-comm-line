@@ -2,7 +2,7 @@
 
 Welcome to the class!
 
-Below are instructions about how to use this repository.
+Below are the instructions about how to use this repository.
 
 1. Download this repository - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59105d27-6102-483d-bf96-abd500e63b61)
 1. This class uses Jupyter Notebooks, decide if you want to use Anaconda on your own computer or Google Colab.
@@ -18,5 +18,7 @@ Below are instructions about how to use this repository.
     - 07 - Finding things
     - 08 - Nelle's shell script
 1. Open the first notebook in Anaconda or in Colab, we will go through either live or using videos.
+1. Keep doing so until you have seen all eight notebooks.
+
 
 Happy scripting!
