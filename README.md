@@ -12,7 +12,7 @@ Below are the instructions on how to use this repository.
     - 01 - Introduction and setup [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=abd2d252-6c29-4171-81b9-abd500efe82a)
     - 02 - Navigating files and directories [video part 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4c78e22d-2b22-4464-b9fa-abd500fbd13d), [video part 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f57ed93e-e0fe-4918-8182-abd501029064)
     - 03 - Working with files and directories [video part 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=94a14b5d-dad4-49f9-9fd2-abd50118f1b2), [video part 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=450d3756-0838-473f-82e1-abd5011eb442)
-    - 04 - Pipes and filters
+    - 04 - Pipes and filters [video part 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0c667489-536e-40f0-9b1a-abd600d1e737), [video part 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5de519db-bffd-46d5-a5fd-abd600d6017f)
     - 05 - For loops
     - 06 - Shell scripts
     - 07 - Finding things
