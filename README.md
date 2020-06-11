@@ -1,5 +1,4 @@
 # The Linux command line for scientific computing
-## Katerina Michalickova, The Graduate School, ICL
 
 Welcome to the class!
 
@@ -9,16 +8,16 @@ Below are the instructions on how to use this repository.
 1. This class uses Jupyter Notebooks, decide if you want to use Anaconda on your own computer or Google Colab.
     - Anaconda instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c12b4cfa-0875-456c-b691-abd500e6e2b3)
     - Colab instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6e69b39f-bcab-4b36-a692-abd500e9888d)
-1. There are eight notebooks in the directory "notebooks"
+1. In the directory "notebooks", there are eight notebooks with video links.
     - 01 - Introduction and setup [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=abd2d252-6c29-4171-81b9-abd500efe82a)
-    - 02 - Navigating files and directories [video part 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4c78e22d-2b22-4464-b9fa-abd500fbd13d), [video part 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f57ed93e-e0fe-4918-8182-abd501029064)
-    - 03 - Working with files and directories [video part 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=94a14b5d-dad4-49f9-9fd2-abd50118f1b2), [video part 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=450d3756-0838-473f-82e1-abd5011eb442)
-    - 04 - Pipes and filters
-    - 05 - For loops
+    - 02 - Navigating files and directories [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4c78e22d-2b22-4464-b9fa-abd500fbd13d), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f57ed93e-e0fe-4918-8182-abd501029064)
+    - 03 - Working with files and directories [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=94a14b5d-dad4-49f9-9fd2-abd50118f1b2), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=450d3756-0838-473f-82e1-abd5011eb442)
+    - 04 - Pipes and filters [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0c667489-536e-40f0-9b1a-abd600d1e737), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5de519db-bffd-46d5-a5fd-abd600d6017f)
+    - 05 - For loops [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cbaa59c0-8902-4047-8b8f-abd700ba3755)
     - 06 - Shell scripts
-    - 07 - Finding things
+    - 07 - Finding things [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59575aed-9333-4f38-a2be-abd700c72bb1), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e27ad876-7821-45fb-b957-abd700cb67c2)
     - 08 - Nelle's shell script
-1. Open the first notebook in Anaconda or in Colab, we will go through either live or using videos.
+1. Open the first notebook in Anaconda or in Colab.
 1. Keep doing so until you have seen all eight notebooks.
 
 
