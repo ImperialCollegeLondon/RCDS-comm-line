@@ -14,7 +14,7 @@ Below are the instructions on how to use this repository.
     - 03 - Working with files and directories [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=94a14b5d-dad4-49f9-9fd2-abd50118f1b2), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=450d3756-0838-473f-82e1-abd5011eb442)
     - 04 - Pipes and filters [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0c667489-536e-40f0-9b1a-abd600d1e737), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5de519db-bffd-46d5-a5fd-abd600d6017f)
     - 05 - For loops [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cbaa59c0-8902-4047-8b8f-abd700ba3755)
-    - 06 - Shell scripts
+    - 06 - Shell scripts [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b61968f6-3bb1-4b41-898c-abd800bce5f0), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7bca90d9-84fd-4849-a682-abd800c10869)
     - 07 - Finding things [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59575aed-9333-4f38-a2be-abd700c72bb1), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e27ad876-7821-45fb-b957-abd700cb67c2)
     - 08 - Nelle's shell script
 1. Open the first notebook in Anaconda or in Colab.
