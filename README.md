@@ -16,7 +16,7 @@ Below are the instructions on how to use this repository.
     - 05 - For loops [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cbaa59c0-8902-4047-8b8f-abd700ba3755)
     - 06 - Shell scripts [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b61968f6-3bb1-4b41-898c-abd800bce5f0), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7bca90d9-84fd-4849-a682-abd800c10869)
     - 07 - Finding things [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59575aed-9333-4f38-a2be-abd700c72bb1), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e27ad876-7821-45fb-b957-abd700cb67c2)
-    - 08 - Nelle's shell script
+    - 08 - Nelle's shell script [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=25c07517-6683-4f63-8d24-abd800cac743),[video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1095126e-44f1-443d-9fc2-abd800ce6f3b),[video 3](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=91ecd5c0-4454-4976-a3e2-abd800d37e0b),[video 4](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ed699b4f-95e2-4aa6-93bd-abd800d7d2ec)
 1. Open the first notebook in Anaconda or in Colab.
 1. Keep doing so until you have seen all eight notebooks.
 
