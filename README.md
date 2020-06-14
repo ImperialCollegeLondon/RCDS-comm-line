@@ -56,4 +56,4 @@ Note: The videos are restricted to ICL students and staff.
 
 Happy scripting!
 
-The content is based on a snapshot of the [Unix Shell lesson](https://kmichali.github.io/SC-shell-novice/) from the [Software Carpentry](https://software-carpentry.org).
+Notebooks 1 to 7 are based on a snapshot of the [Unix Shell lesson](https://kmichali.github.io/SC-shell-novice/) from the [Software Carpentry](https://software-carpentry.org).
