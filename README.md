@@ -53,3 +53,5 @@ Below are the instructions on how to use this repository.
 
 
 Happy scripting!
+
+The content is based on a snapshot of the [Unix Shell lesson](https://kmichali.github.io/SC-shell-novice/) from the [Software Carpentry](https://software-carpentry.org).
