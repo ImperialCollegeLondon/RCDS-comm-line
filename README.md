@@ -2,8 +2,9 @@
 
 Welcome to the class!
 
-Below are the instructions on how to use this repository.
+Below are the instructions on how to use this repository.  
 
+Note: The videos are restricted to ICL students and staff.
 
 1. This class uses Jupyter Notebooks, decide if you want to use Anaconda on your own computer or Google Colab.
     - Anaconda:
