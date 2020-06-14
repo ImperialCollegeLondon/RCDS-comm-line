@@ -9,7 +9,8 @@ Below are the instructions on how to use this repository.
     - Anaconda instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c12b4cfa-0875-456c-b691-abd500e6e2b3)
     - Colab instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6e69b39f-bcab-4b36-a692-abd500e9888d)
 1. In the directory "notebooks", there are eight notebooks with video links.
-    - 01 - Introduction and setup [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=abd2d252-6c29-4171-81b9-abd500efe82a)
+    - 01 - Introduction and setup [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kmichali/GS_comm_line/blob/master/notebooks/01_introduction_and_setup.ipynb)
+        - [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=abd2d252-6c29-4171-81b9-abd500efe82a)
     - 02 - Navigating files and directories [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4c78e22d-2b22-4464-b9fa-abd500fbd13d), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f57ed93e-e0fe-4918-8182-abd501029064)
     - 03 - Working with files and directories [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=94a14b5d-dad4-49f9-9fd2-abd50118f1b2), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=450d3756-0838-473f-82e1-abd5011eb442)
     - 04 - Pipes and filters [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0c667489-536e-40f0-9b1a-abd600d1e737), [video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5de519db-bffd-46d5-a5fd-abd600d6017f)
@@ -19,6 +20,11 @@ Below are the instructions on how to use this repository.
     - 08 - Nelle's shell script [video 1](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=25c07517-6683-4f63-8d24-abd800cac743),[video 2](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1095126e-44f1-443d-9fc2-abd800ce6f3b),[video 3](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=91ecd5c0-4454-4976-a3e2-abd800d37e0b),[video 4](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ed699b4f-95e2-4aa6-93bd-abd800d7d2ec)
 1. Open the first notebook in Anaconda or in Colab.
 1. Keep doing so until you have seen all eight notebooks.
+
+
+
+
+
 
 
 Happy scripting!
