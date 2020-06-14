@@ -10,9 +10,10 @@ Below are the instructions on how to use this repository.
         - Download this repository - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59105d27-6102-483d-bf96-abd500e63b61)
         - Open a notebook in Anaconda - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c12b4cfa-0875-456c-b691-abd500e6e2b3)
     - Google Colab:
-        - Click on Colab links below
-        - Save the notebook in your drive with "File"->"Save a copy in Drive"
-        - Execute the first code cell to download practice data; this has to be done for each notebook, the data does not persist
+        - You need to log into your Google account
+        - Click on a Colab link below
+        - When open, save the notebook in your drive with "File"->"Save a copy in Drive"
+        - Execute the first code cell to download practice data - this has to be done for each notebook, the data does not persist
  
 1. In the directory "notebooks", there are eight notebooks with video links.
     - **01 - Introduction and setup** 
