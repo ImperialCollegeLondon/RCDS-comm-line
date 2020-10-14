@@ -6,6 +6,8 @@ Below are the instructions on how to use this repository.
 
 Note: The videos are restricted to ICL students and staff.
 
+## Setup
+
 1. This class uses Jupyter Notebooks, decide if you want to use Anaconda on your own computer or Google Colab.
     - Anaconda:
         - Download this repository - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59105d27-6102-483d-bf96-abd500e63b61)
@@ -15,7 +17,12 @@ Note: The videos are restricted to ICL students and staff.
         - Click on Colab links below
         - When open, save the notebooks in your drive with "File"->"Save a copy in Drive"
         - Execute the first code cell to download practice data - this has to be done for each notebook, the data does not persist
+        
+1. For practising on the command line, you will need a terminal application that is already installed on a Mac or Linux.  For Windows, you have several options:
+    - ** Git for Windows ** (relatively easy install, no admin privileges required) https://gitforwindows.org, installation video is available at https://www.youtube.com/watch?v=339AEqk9c-8 
+    - ** Windows subsistem for Linux ** (requires admin privileges)(https://www.windowscentral.com/install-windows-subsystem-linux-windows-10
  
+ ## Using the repository for learning
 1. In the directory "notebooks", there are eight notebooks with video links.
     - **01 - Introduction and setup** 
         - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kmichali/GS_comm_line/blob/master/notebooks/01_introduction_and_setup.ipynb)
