@@ -18,7 +18,7 @@ Note: The videos are restricted to ICL students and staff.
         - When open, save the notebooks in your drive with "File"->"Save a copy in Drive"
         - Execute the first code cell to download practice data - this has to be done for each notebook, the data does not persist
         
-1. For practising on the command line, you will need a terminal application that is already installed on a Mac or Linux.  For Windows, you have several options:
+1. If using Google Colab, you will also need a terminal application.  This is already installed on a Mac or Linux.  For Windows, you have several options:
     - **Git for Windows** (relatively easy to install, no admin privileges required) https://gitforwindows.org, installation video is available at https://www.youtube.com/watch?v=339AEqk9c-8 
     - **Windows subsistem for Linux** (requires admin privileges) https://www.windowscentral.com/install-windows-subsystem-linux-windows-10
  
