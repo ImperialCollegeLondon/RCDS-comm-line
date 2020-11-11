@@ -22,9 +22,11 @@ Note: The videos are restricted to ICL students and staff.
     - **Anaconda** (Windows users reported problems with using the course notebooks without enabling Windows subsystem for Linux - see the last point above):
         - Download this repository - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59105d27-6102-483d-bf96-abd500e63b61)
         - Open a notebook in Anaconda - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c12b4cfa-0875-456c-b691-abd500e6e2b3)
-        
+    
+    
+    
  
- ## Using the repository for learning
+ ## Using the repository for learning (if you are attending a class, we will do this together)
 1. In the directory "notebooks", there are eight notebooks with video links.
     - **01 - Introduction and setup** 
         - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kmichali/GS_comm_line/blob/master/notebooks/01_introduction_and_setup.ipynb)
