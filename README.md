@@ -17,9 +17,9 @@ Note: The videos are restricted to ICL students and staff.
         - Execute the first code cell to download practice data - this has to be done for each notebook, the data does not persist
         - Windows users will also need a command line application
             - [Git for Windows](https://gitforwindows.org) - relatively easy to install, no admin privileges required, installation [video](https://www.youtube.com/watch?v=339AEqk9c-8)
-            - [Windows subsistem for Linux](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10) - recommended but requires admin privileges 
+            - [Windows subsystem for Linux](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10) - recommended but requires admin privileges 
         
-    - Anaconda (Windows users reported problems with using the course notebooks without enabling Windows subsistem for Linux - see the last point above):
+    - Anaconda (Windows users reported problems with using the course notebooks without enabling Windows subsystem for Linux - see the last point above):
         - Download this repository - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59105d27-6102-483d-bf96-abd500e63b61)
         - Open a notebook in Anaconda - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c12b4cfa-0875-456c-b691-abd500e6e2b3)
         
