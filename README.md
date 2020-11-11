@@ -16,7 +16,7 @@ Note: The videos are restricted to ICL students and staff.
         - When open, save the notebooks in your drive with "File"->"Save a copy in Drive"
         - Execute the first code cell to download practice data - this has to be done for each notebook, the data does not persist
         - Windows users will also need a command line application
-            -  - **Git for Windows** (relatively easy to install, no admin privileges required) https://gitforwindows.org, installation video is available at https://www.youtube.com/watch?v=339AEqk9c-8 
+            - **Git for Windows** (relatively easy to install, no admin privileges required) https://gitforwindows.org, installation video is available at https://www.youtube.com/watch?v=339AEqk9c-8 
             - **Windows subsistem for Linux** (recommended but requires admin privileges) https://www.windowscentral.com/install-windows-subsystem-linux-windows-10
         
     - Anaconda (Windows users reported problems with using the course notebooks without enabling Windows subsistem for Linux - see last point above):
