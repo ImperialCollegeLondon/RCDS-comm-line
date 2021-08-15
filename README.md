@@ -8,7 +8,7 @@ Note: The videos are restricted to ICL students and staff.
 
 ## Setup
 
-1. This class uses Jupyter Notebooks, decide if you want to use Google Colab or Anaconda on your own computer.
+1. This class uses Jupyter Notebooks, decide if you want to use Google Colab or Anaconda on your own computer. Make sure that you **test your setup before the class so you can follow from the start**.
    
     - **Google Colab**:
         - Log into your Google account
@@ -20,7 +20,7 @@ Note: The videos are restricted to ICL students and staff.
             - [Windows subsystem for Linux](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10) - recommended but requires admin privileges 
         - [Download practice files](https://kmichali.github.io/SC-shell-novice/data/data-shell.zip) for use with a command line application.
         
-    - **Anaconda** (Windows users reported problems with using the course notebooks without enabling Windows subsystem for Linux - see the last point above):
+    - **Anaconda** (please note that **Windows users reported problems with using the course notebooks without enabling Windows subsystem for Linux** - see the last point above):
         - Download this repository - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59105d27-6102-483d-bf96-abd500e63b61)
         - Open a notebook in Anaconda - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c12b4cfa-0875-456c-b691-abd500e6e2b3)
     
