@@ -69,3 +69,13 @@ Note: The videos are restricted to ICL students and staff.
 Happy scripting!
 
 Notebooks 1 to 7 are based on a snapshot of the [Unix Shell lesson](https://kmichali.github.io/SC-shell-novice/) from the [Software Carpentry](https://software-carpentry.org).
+
+
+## Further study
+- [Local tutorial (ICL only)](https://wiki.imperial.ac.uk/display/HPC/Shell+scripting) - systematic with lots of examples
+- [Steve Parke's Bash tutorial](http://steve-parker.org/sh/sh.shtml) - with Linux administration spin
+- [The Linux documentation project](http://tldp.org) - the most complete guide you can imagine
+- [The Bash hackers wiki](http://wiki.bash-hackers.org/) - if you are looking for cool features
+- [Many short scripts to play with] - (https://katerim@bitbucket.org/katerim/shellex.git)
+
+
