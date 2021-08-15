@@ -76,6 +76,6 @@ Notebooks 1 to 7 are based on a snapshot of the [Unix Shell lesson](https://kmic
 - [Steve Parke's Bash tutorial](http://steve-parker.org/sh/sh.shtml) - with Linux administration spin
 - [The Linux documentation project](http://tldp.org) - the most complete guide you can imagine
 - [The Bash hackers wiki](http://wiki.bash-hackers.org/) - if you are looking for cool features
-- [Many short scripts to play with] - (https://katerim@bitbucket.org/katerim/shellex.git)
+- [Many short scripts to play with](https://katerim@bitbucket.org/katerim/shellex.git)
 
 
