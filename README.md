@@ -8,14 +8,14 @@ Note: The videos are restricted to ICL students and staff.
 
 ## Setup
 
-1. This class uses Jupyter Notebooks, decide if you want to use Google Colab or Anaconda on your own computer. Make sure that you **test your setup before the class so you can follow from the start**.
+1. This class uses Jupyter Notebooks, decide if you want to use Google Colab or Anaconda on your own computer. Make sure that you **test your setup before the class so you can follow from the start**. Try the following on one or two notebooks 
    
     - **Google Colab**:
         - Log into your Google account
         - Click on Colab links below
         - When open, save the notebooks in your drive with "File"->"Save a copy in Drive"
-        - Execute the first code cell to download practice data - this has to be done for each notebook, the data does not persist
-        - Windows users will also need a command line application
+        - In notebooks 2 to 8, test the first code cell to download practice data - this will have to be done for each notebook during the class, the data does not persist
+        - Windows users will also need a command line application; choose one of the following.
             - [Git for Windows](https://gitforwindows.org) - relatively easy to install, no admin privileges required, installation [video](https://www.youtube.com/watch?v=339AEqk9c-8)
             - [Windows subsystem for Linux](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10) - recommended but requires admin privileges 
         - [Download practice files](https://kmichali.github.io/SC-shell-novice/data/data-shell.zip) for use with a command line application.
@@ -23,11 +23,13 @@ Note: The videos are restricted to ICL students and staff.
     - **Anaconda** (please note that **Windows users reported problems with using the course notebooks without enabling Windows subsystem for Linux** - see the last point above):
         - Download this repository - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59105d27-6102-483d-bf96-abd500e63b61)
         - Open a notebook in Anaconda - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c12b4cfa-0875-456c-b691-abd500e6e2b3)
+        - Jupyter contains in-built Terminal that will be used for command line practice (click on "New" in top right 
+        - The practice files are already included in the repository
     
     
     
  
- ## Using the repository for learning (if you are attending a class, we will do this together)
+ ## Using the repository for learning (if you are attending a Graduate School class, we will do this together)
 1. In the directory "notebooks", there are eight notebooks with video links.
     - **01 - Introduction and setup** 
         - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kmichali/GS_comm_line/blob/master/notebooks/01_introduction_and_setup.ipynb)
