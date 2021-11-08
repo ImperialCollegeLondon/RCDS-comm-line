@@ -18,7 +18,7 @@ Note: The videos are restricted to ICL students and staff.
         - Windows users will also need a command line application; choose one of the following.
             - [Git for Windows](https://gitforwindows.org) - relatively easy to install, no admin privileges required, installation [video](https://www.youtube.com/watch?v=339AEqk9c-8)
             - [Windows subsystem for Linux](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10) - recommended but requires admin privileges 
-        - [Download practice files](https://kmichali.github.io/SC-shell-novice/data/data-shell.zip) for use with a command line application. Place the data-shell directory on your desktop. Alernatively, you can use one of the following commands directly on the command line.
+        - [Download practice files](https://kmichali.github.io/SC-shell-novice/data/data-shell.zip) for use with a command line application. Place the data-shell directory on your desktop. Alternatively, you can use one of the following commands directly on the command line.
           - wget https://kmichali.github.io/SC-shell-novice/data/data-shell.zip; unzip data-shell.zip
           - curl https://kmichali.github.io/SC-shell-novice/data/data-shell.zip -o data-shell.zip; unzip data-shell.zip
         
