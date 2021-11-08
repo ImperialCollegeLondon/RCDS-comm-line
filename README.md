@@ -18,7 +18,10 @@ Note: The videos are restricted to ICL students and staff.
         - Windows users will also need a command line application; choose one of the following.
             - [Git for Windows](https://gitforwindows.org) - relatively easy to install, no admin privileges required, installation [video](https://www.youtube.com/watch?v=339AEqk9c-8)
             - [Windows subsystem for Linux](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10) - recommended but requires admin privileges 
-        - [Download practice files](https://kmichali.github.io/SC-shell-novice/data/data-shell.zip) for use with a command line application.
+        - [Download practice files](https://kmichali.github.io/SC-shell-novice/data/data-shell.zip) for use with a command line application. Place the data-shell directory on your desktop. Alernatively, you can use one of the following commands directly on the command line.
+          - wget https://kmichali.github.io/SC-shell-novice/data/data-shell.zip; unzip data-shell.zip
+          - curl https://kmichali.github.io/SC-shell-novice/data/data-shell.zip -o data-shell.zip; unzip data-shell.zip
+        
         
     - **Anaconda** (please note that **Windows users reported problems with using the course notebooks without enabling Windows subsystem for Linux** - see the last point above):
         - Download this repository - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59105d27-6102-483d-bf96-abd500e63b61)
