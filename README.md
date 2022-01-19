@@ -10,12 +10,12 @@ Note: The videos are restricted to ICL students and staff.
 
 1. This class uses Jupyter Notebooks, decide if you want to use **Google Colab or Anaconda** on your own computer. Make sure that you **test your setup before the class so you can follow from the start**. Try the following on one or two notebooks 
    
-    - **Method 1 - Google Colab in your browser**:
+    - **Method 1 - Google Colab in your browser and a command line application**:
         - Log into your Google account
-        - Click on Colab links below
-        - When open, save the notebooks in your drive with "File"->"Save a copy in Drive"
-        - In notebooks 2 to 8, test the first code cell to download practice data - this will have to be done for each notebook during the class, the data does not persist
-        - Windows users will also need a command line application; choose one of the following.
+        - Click on blue Colab links below
+        - When open, save the notebooks in your drive with "File"->"Save a copy in Drive". This will let you execute commands in the code cells.
+        - In notebooks 2 to 8, test the first code cell to download the practice data - this will have to be done for each notebook during the class, the data does not persist
+        - *Windows users will also need a separate command line application**; choose one of the following.
             - [Git for Windows](https://gitforwindows.org) - relatively easy to install, no admin privileges required, installation [video](https://www.youtube.com/watch?v=339AEqk9c-8)
             - [Windows subsystem for Linux](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10) - recommended but requires admin privileges 
         - [Download practice files](https://kmichali.github.io/SC-shell-novice/data/data-shell.zip) for use with a command line application. Place the data-shell directory on your desktop. Alternatively, you can use one of the following commands directly on the command line.
