@@ -8,9 +8,9 @@ Note: The videos are restricted to ICL students and staff.
 
 ## Setup
 
-1. This class uses Jupyter Notebooks, decide if you want to use Google Colab or Anaconda on your own computer. Make sure that you **test your setup before the class so you can follow from the start**. Try the following on one or two notebooks 
+1. This class uses Jupyter Notebooks, decide if you want to use **Google Colab or Anaconda** on your own computer. Make sure that you **test your setup before the class so you can follow from the start**. Try the following on one or two notebooks 
    
-    - **Google Colab**:
+    - **Method 1 - Google Colab in your browser**:
         - Log into your Google account
         - Click on Colab links below
         - When open, save the notebooks in your drive with "File"->"Save a copy in Drive"
@@ -23,7 +23,7 @@ Note: The videos are restricted to ICL students and staff.
           - curl https://kmichali.github.io/SC-shell-novice/data/data-shell.zip -o data-shell.zip; unzip data-shell.zip
         
         
-    - **Anaconda** (please note that **Windows users reported problems with using the course notebooks without enabling Windows subsystem for Linux** - see above):
+    - **Method 2 - Anaconda on your own computer** (please note that **Windows users reported problems with using the course notebooks without enabling Windows subsystem for Linux** - see above):
         - Download this repository - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59105d27-6102-483d-bf96-abd500e63b61)
         - Open a notebook in Anaconda using Jupyter Notebook - instruction [video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c12b4cfa-0875-456c-b691-abd500e6e2b3)
         - Jupyter Notebook contains in-built Terminal that will be used for command line practice
