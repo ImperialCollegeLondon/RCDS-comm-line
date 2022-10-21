@@ -77,7 +77,7 @@ Notebooks 1 to 7 are based on a snapshot of the [Unix Shell lesson](https://kmic
 
 
 ## Further study
-- Local tutorials - dry, systematic with lots of examples (ICL access only) - [Bash fundamentals](https://wiki.imperial.ac.uk/display/HPC/Command+line), [Bash scripting](https://wiki.imperial.ac.uk/display/HPC/Shell+scripting) 
+- Local tutorials - systematic with lots of examples (ICL access only) - [Bash fundamentals](https://wiki.imperial.ac.uk/display/HPC/Command+line), [Bash scripting](https://wiki.imperial.ac.uk/display/HPC/Shell+scripting) 
 - [Steve Parke's Bash tutorial](http://steve-parker.org/sh/sh.shtml) - with Linux administration spin
 - [The Linux documentation project](http://tldp.org) - the most complete guide you can imagine
 - [The Bash hackers wiki](http://wiki.bash-hackers.org/) - if you are looking for cool features
